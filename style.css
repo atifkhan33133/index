@@ -1,0 +1,19 @@
+body{
+    background-image:url("image.jpg") ;
+}
+ fieldset {
+    display: center;
+    text-align: center;
+    font-size: 40px;
+    
+}
+label {
+    font-size: 40px;
+    color: antiquewhite;
+
+}
+li {
+    color: aliceblue;
+    text-align: center;
+
+}
